@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		B01DD154296FF4B700848E95 /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = B01DD153296FF4B700848E95 /* Order.swift */; };
+		B01DD156296FFEB200848E95 /* AddressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B01DD155296FFEB200848E95 /* AddressView.swift */; };
 		B0755AFF2966B2B500B445ED /* CupcakeCornerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0755AFE2966B2B500B445ED /* CupcakeCornerApp.swift */; };
 		B0755B012966B2B500B445ED /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0755B002966B2B500B445ED /* ContentView.swift */; };
 		B0755B032966B2B600B445ED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B0755B022966B2B600B445ED /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 
 /* Begin PBXFileReference section */
 		B01DD153296FF4B700848E95 /* Order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
+		B01DD155296FFEB200848E95 /* AddressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddressView.swift; sourceTree = "<group>"; };
 		B0755AFB2966B2B500B445ED /* CupcakeCorner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CupcakeCorner.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B0755AFE2966B2B500B445ED /* CupcakeCornerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CupcakeCornerApp.swift; sourceTree = "<group>"; };
 		B0755B002966B2B500B445ED /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 				B01DD153296FF4B700848E95 /* Order.swift */,
 				B0755AFE2966B2B500B445ED /* CupcakeCornerApp.swift */,
 				B0755B002966B2B500B445ED /* ContentView.swift */,
+				B01DD155296FFEB200848E95 /* AddressView.swift */,
 				B0755B022966B2B600B445ED /* Assets.xcassets */,
 				B0755B042966B2B600B445ED /* Preview Content */,
 			);
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B01DD154296FF4B700848E95 /* Order.swift in Sources */,
+				B01DD156296FFEB200848E95 /* AddressView.swift in Sources */,
 				B0755B012966B2B500B445ED /* ContentView.swift in Sources */,
 				B0755AFF2966B2B500B445ED /* CupcakeCornerApp.swift in Sources */,
 			);
